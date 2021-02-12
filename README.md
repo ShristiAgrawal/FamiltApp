@@ -10,3 +10,6 @@ For the same, I have tried building an android application, which consists of th
 
 Remaining features and app screenshots can be fond here-
 https://docs.google.com/document/d/11GZC9znFYSnM2egmE5cWifjNtdQnZA0Tqh0FzsemD54/edit?usp=sharing
+
+The android app can be downloaded using the following link-
+https://docs.google.com/uc?export=download&id=1GeMIT3qP_jdwfryVq8kQxXaYanay_dmh
